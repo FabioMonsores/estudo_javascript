@@ -153,7 +153,7 @@ const conversao4 = parseFloat('5.2');
 
 console.log(conversao3 + conversao4); //Retornará 15.2
 
-//3ª Forma - Number - O JS tentará converter de forma automática para um inteiro ou float.
+//3ª Forma - Number() - O JS tentará converter de forma automática para um inteiro ou float.
 
 const conversao5 = 10;
 const conversao6 = Number('5');
